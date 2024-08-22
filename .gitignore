@@ -32,3 +32,6 @@ __pycache__
 .eslintcache
 turbo-cache-key.json
 junit.xml
+
+.wrangler
+meta.json
